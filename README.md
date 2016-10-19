@@ -45,8 +45,12 @@ $ gulp build:cordova
  - [phonegap-plugin-push]
  - [cordova-plugin-dialogs]
 
-----------
 
+
+> You can check how simulate the push notifications locally and other
+> cool tips in this [awesome tutorial].
+
+[awesome tutorial]: http://macdonst.github.io/push-workshop-eu
 [phonegap-plugin-push]: https://github.com/phonegap/phonegap-plugin-push
 [cordova-plugin-dialogs]: https://github.com/apache/cordova-plugin-dialogs
 [LiveReload]: https://github.com/intesso/connect-livereload
